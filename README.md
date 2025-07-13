@@ -8,7 +8,7 @@
 <!-- 🔗 CONNECT LINKS -->
 <div align="center">
   <a href="https://www.linkedin.com/in/jaideep-shekhawat/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Garjanveer%20Sharma-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-jaideep%20-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:jaishekhawat175@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />

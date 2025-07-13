@@ -7,13 +7,13 @@
 
 <!-- 🔗 CONNECT LINKS -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/garjanveer-sharma-503310344" target="_blank">
+  <a href="https://www.linkedin.com/in/jaideep-shekhawat/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Garjanveer%20Sharma-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:garjanveersharma06@gmail.com">
+  <a href="mailto:jaishekhawat175@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://leetcode.com/garjanveersharma/" target="_blank">
+  <a href="https://leetcode.com/u/Jai_adi//" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-DSA%20Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
 </div>
@@ -32,10 +32,10 @@
 ### 🚀 About Me
 
 - 🔥 Daily DSA Practice on **LeetCode**  
-- 💡 Currently Learning: **DSA , WebDev , AI/ML**  
+- 💡 Currently Learning: **DSA(JAVA), C/C++, AI/ML**  
 - 🛠️ Building: Web Apps
 - 📍 Work in Progress 
-- 📬 Contact me at: **garjanveersharma06@gmail.com**
+- 📬 Contact me at: **jaishekhawat175@gmail.com**
 
 ---
 
@@ -50,7 +50,7 @@
 ### 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,Ai tools,vscode,github" />
 </p>
 
 ---
@@ -58,10 +58,10 @@
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/garjanveer-sharma-503310344" target="_blank">
+  <a href="https://www.linkedin.com/in/jaideep-shekhawat/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Message-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:garjanveersharma06@gmail.com">
+  <a href="mailto:jaishekhawat175@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Send_Mail-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>

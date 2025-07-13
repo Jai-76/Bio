@@ -69,5 +69,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Garjanveersharma&label=Profile%20views&color=brightgreen&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Jaideep Shekhawat&label=Profile%20views&color=brightgreen&style=flat" />
 </p>
